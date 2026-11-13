@@ -1,0 +1,11 @@
+# Donnees personnelles : ne jamais publier sur GitHub
+data/users.json
+data/plans.json
+data/avis.json
+stockage/
+
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+*.zip

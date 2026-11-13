@@ -1,0 +1,1506 @@
+[
+  {
+    "id": "ndole",
+    "nom": "Ndolé",
+    "region": "Littoral",
+    "temps": 120,
+    "difficulte": "Moyenne",
+    "description": "Le plat emblématique de Douala : des feuilles amères de ndolé mijotées dans une crème d'arachides, avec viande et crevettes.",
+    "ingredients": [
+      {
+        "ref": "ndole",
+        "qte": 500
+      },
+      {
+        "ref": "arachides",
+        "qte": 500
+      },
+      {
+        "ref": "boeuf",
+        "qte": 500
+      },
+      {
+        "ref": "crevettes_fraiches",
+        "qte": 200
+      },
+      {
+        "ref": "crevettes_sechees",
+        "qte": 100
+      },
+      {
+        "ref": "oignon",
+        "qte": 2
+      },
+      {
+        "ref": "ail",
+        "qte": 4
+      },
+      {
+        "ref": "gingembre",
+        "qte": 30
+      },
+      {
+        "ref": "huile",
+        "qte": 15
+      },
+      {
+        "ref": "sel"
+      },
+      {
+        "ref": "cube"
+      },
+      {
+        "ref": "piment"
+      }
+    ],
+    "etapes": [
+      "Lavez les feuilles de ndolé plusieurs fois en les frottant pour enlever l'amertume, puis faites-les bouillir 15 min et essorez-les.",
+      "Faites bouillir les arachides 15 min, retirez la peau, puis mixez-les avec un peu d'eau, l'ail et le gingembre pour obtenir une pâte lisse.",
+      "Cuisez la viande assaisonnée (sel, oignon, ail) dans un peu d'eau jusqu'à ce qu'elle soit tendre.",
+      "Ajoutez la pâte d'arachide à la viande et son bouillon, laissez cuire 20 min en remuant pour que ça n'attache pas.",
+      "Incorporez le ndolé et les crevettes séchées, rectifiez l'assaisonnement et laissez mijoter 15 min.",
+      "Faites frire les crevettes fraîches et un oignon émincé dans l'huile chaude, versez le tout sur le ndolé au moment de servir."
+    ],
+    "accompagnement": "Miondo, bâton de manioc ou plantains mûrs frits",
+    "portions": 4
+  },
+  {
+    "id": "eru",
+    "nom": "Eru",
+    "region": "Sud-Ouest",
+    "temps": 90,
+    "difficulte": "Moyenne",
+    "description": "Feuilles d'eru finement émincées et waterleaf cuites dans l'huile de palme avec peau de bœuf et poisson fumé.",
+    "ingredients": [
+      {
+        "ref": "eru",
+        "qte": 300
+      },
+      {
+        "ref": "epinards",
+        "qte": 500,
+        "precision": "à la place du waterleaf"
+      },
+      {
+        "ref": "peau_boeuf",
+        "qte": 300
+      },
+      {
+        "ref": "boeuf",
+        "qte": 300
+      },
+      {
+        "ref": "poisson_fume",
+        "qte": 1
+      },
+      {
+        "ref": "crevettes_sechees",
+        "qte": 100,
+        "precision": "moulues"
+      },
+      {
+        "ref": "huile_palme",
+        "qte": 40
+      },
+      {
+        "ref": "oignon",
+        "qte": 1
+      },
+      {
+        "ref": "sel"
+      },
+      {
+        "ref": "cube"
+      },
+      {
+        "ref": "piment"
+      }
+    ],
+    "etapes": [
+      "Cuisez la viande et le kanda coupés en morceaux avec sel et oignon jusqu'à ce qu'ils soient tendres.",
+      "Ajoutez le poisson fumé nettoyé et émietté, ainsi que les crevettes moulues.",
+      "Coupez finement les épinards, ajoutez-les à la marmite et laissez-les rendre leur eau 5 min.",
+      "Incorporez l'eru par poignées en remuant bien.",
+      "Versez l'huile de palme, assaisonnez et laissez mijoter 15 à 20 min à feu doux en remuant régulièrement."
+    ],
+    "accompagnement": "Water fufu ou garri",
+    "portions": 4
+  },
+  {
+    "id": "okok",
+    "nom": "Okok",
+    "region": "Centre",
+    "temps": 90,
+    "difficulte": "Moyenne",
+    "description": "Feuilles de gnetum pilées, cuites avec arachides et jus de noix de palme. Se mange en version sucrée ou salée.",
+    "ingredients": [
+      {
+        "ref": "okok",
+        "qte": 300
+      },
+      {
+        "ref": "pate_arachide",
+        "qte": 300
+      },
+      {
+        "ref": "noix_palme",
+        "qte": 1
+      },
+      {
+        "ref": "poisson_fume",
+        "qte": 1,
+        "precision": "version salée"
+      },
+      {
+        "ref": "sucre"
+      },
+      {
+        "ref": "sel"
+      }
+    ],
+    "etapes": [
+      "Délayez la crème de noix de palme dans 1 L d'eau chaude. Avec des noix fraîches : faites-les bouillir, pilez-les, pressez-les avec de l'eau chaude puis filtrez.",
+      "Pilez légèrement les feuilles d'okok déjà émincées pour les attendrir.",
+      "Portez le jus de noix de palme à ébullition et ajoutez la pâte d'arachide délayée. Remuez 10 min.",
+      "Ajoutez l'okok, puis le sucre ou le poisson fumé et le sel selon la version choisie.",
+      "Laissez cuire à feu doux 30 à 40 min jusqu'à ce que la sauce soit épaisse et que l'huile remonte."
+    ],
+    "accompagnement": "Bâton de manioc (bobolo)",
+    "portions": 4
+  },
+  {
+    "id": "poulet-dg",
+    "nom": "Poulet DG",
+    "region": "Littoral",
+    "temps": 75,
+    "difficulte": "Facile",
+    "description": "Le « poulet du directeur général » : poulet doré et plantains mûrs frits, sautés avec des légumes.",
+    "ingredients": [
+      {
+        "ref": "poulet",
+        "qte": 1
+      },
+      {
+        "ref": "plantain_mur",
+        "qte": 4
+      },
+      {
+        "ref": "carotte",
+        "qte": 3
+      },
+      {
+        "ref": "haricots_verts",
+        "qte": 200
+      },
+      {
+        "ref": "poivron",
+        "qte": 1
+      },
+      {
+        "ref": "tomate",
+        "qte": 3
+      },
+      {
+        "ref": "oignon",
+        "qte": 2
+      },
+      {
+        "ref": "ail",
+        "qte": 4
+      },
+      {
+        "ref": "gingembre",
+        "qte": 30
+      },
+      {
+        "ref": "celeri",
+        "qte": 1
+      },
+      {
+        "ref": "persil",
+        "qte": 1
+      },
+      {
+        "ref": "huile",
+        "qte": 50,
+        "precision": "pour la friture"
+      },
+      {
+        "ref": "sel"
+      },
+      {
+        "ref": "cube"
+      },
+      {
+        "ref": "poivre"
+      }
+    ],
+    "etapes": [
+      "Mixez ail, gingembre, céleri, persil et un oignon, puis marinez le poulet dans ce mélange avec sel et cube.",
+      "Faites cuire le poulet à l'étuvée 20 min dans sa marinade, puis faites-le dorer dans l'huile.",
+      "Coupez les plantains en rondelles et faites-les frire jusqu'à ce qu'ils soient dorés.",
+      "Dans une grande marmite, faites revenir oignon et tomates, puis les carottes et haricots verts coupés.",
+      "Ajoutez le poulet et son jus de cuisson, laissez mijoter 10 min, puis ajoutez le poivron et les plantains. Mélangez délicatement 5 min."
+    ],
+    "accompagnement": "Se suffit à lui-même",
+    "portions": 4
+  },
+  {
+    "id": "koki",
+    "nom": "Koki",
+    "region": "Littoral",
+    "temps": 150,
+    "difficulte": "Moyenne",
+    "description": "Gâteau de haricots cornille pelés et pilés, relevé à l'huile de palme et cuit à la vapeur dans des feuilles de bananier.",
+    "ingredients": [
+      {
+        "ref": "cornille",
+        "qte": 1000
+      },
+      {
+        "ref": "huile_palme",
+        "qte": 25
+      },
+      {
+        "ref": "feuilles_bananier",
+        "qte": 1
+      },
+      {
+        "ref": "piment"
+      },
+      {
+        "ref": "sel"
+      }
+    ],
+    "etapes": [
+      "Trempez les haricots une nuit, puis frottez-les pour retirer toutes les peaux. Rincez.",
+      "Mixez ou écrasez les haricots avec un peu d'eau et le piment pour obtenir une pâte fine.",
+      "Chauffez légèrement l'huile de palme, versez-la dans la pâte et fouettez énergiquement. Salez.",
+      "Passez les feuilles de bananier sur la flamme pour les assouplir, versez-y la pâte et ficelez les paquets.",
+      "Faites cuire à la vapeur 1 h 30 à 2 h dans une marmite avec un fond d'eau, en couvrant bien."
+    ],
+    "accompagnement": "Plantains ou macabo bouillis",
+    "portions": 4
+  },
+  {
+    "id": "achu",
+    "nom": "Achu (sauce jaune)",
+    "region": "Nord-Ouest",
+    "temps": 120,
+    "difficulte": "Difficile",
+    "description": "Taro pilé servi avec une sauce jaune à l'huile de palme émulsionnée à la potasse, épices achu et viande.",
+    "ingredients": [
+      {
+        "ref": "taro",
+        "qte": 2000
+      },
+      {
+        "ref": "boeuf",
+        "qte": 500
+      },
+      {
+        "ref": "tripes",
+        "qte": 500
+      },
+      {
+        "ref": "huile_palme",
+        "qte": 40
+      },
+      {
+        "ref": "potasse",
+        "qte": 1
+      },
+      {
+        "ref": "epices_achu"
+      },
+      {
+        "ref": "njansang"
+      },
+      {
+        "ref": "sel"
+      },
+      {
+        "ref": "cube"
+      },
+      {
+        "ref": "piment"
+      }
+    ],
+    "etapes": [
+      "Cuisez la viande avec sel et une partie des épices moulues ; gardez le bouillon.",
+      "Faites bouillir les taros avec la peau, épluchez-les chauds et pilez-les jusqu'à obtenir une pâte lisse et élastique.",
+      "Dissolvez la potasse dans un peu d'eau tiède, laissez reposer et filtrez.",
+      "Versez l'huile de palme dans un grand bol, ajoutez progressivement l'eau de potasse en remuant : l'huile devient jaune et épaisse.",
+      "Allongez avec le bouillon de viande chaud et les épices restantes, jusqu'à obtenir une sauce onctueuse.",
+      "Servez le taro en forme de puits avec la sauce jaune et la viande au centre."
+    ],
+    "accompagnement": "Taro pilé (achu)",
+    "portions": 4
+  },
+  {
+    "id": "mbongo-tchobi",
+    "nom": "Mbongo tchobi",
+    "region": "Littoral",
+    "temps": 60,
+    "difficulte": "Moyenne",
+    "description": "La sauce noire des Bassa, à base d'épice mbongo grillée, servie le plus souvent avec du poisson.",
+    "ingredients": [
+      {
+        "ref": "poisson_frais",
+        "qte": 1000
+      },
+      {
+        "ref": "mbongo",
+        "qte": 4
+      },
+      {
+        "ref": "tomate",
+        "qte": 2
+      },
+      {
+        "ref": "oignon",
+        "qte": 2
+      },
+      {
+        "ref": "ail",
+        "qte": 3
+      },
+      {
+        "ref": "gingembre",
+        "qte": 20
+      },
+      {
+        "ref": "huile",
+        "qte": 5
+      },
+      {
+        "ref": "rondelles"
+      },
+      {
+        "ref": "pebe"
+      },
+      {
+        "ref": "sel"
+      },
+      {
+        "ref": "cube"
+      },
+      {
+        "ref": "piment"
+      }
+    ],
+    "etapes": [
+      "Grillez les gousses de mbongo à la flamme jusqu'à ce qu'elles soient noires, puis écrasez-les.",
+      "Mixez le mbongo avec les autres épices, l'ail, le gingembre, les oignons et les tomates.",
+      "Faites revenir ce mélange quelques minutes dans l'huile, puis ajoutez de l'eau pour obtenir une sauce.",
+      "Laissez cuire 15 min, salez et ajoutez le piment.",
+      "Déposez le poisson nettoyé dans la sauce, couvrez et laissez cuire 15 à 20 min sans trop remuer."
+    ],
+    "accompagnement": "Plantains verts bouillis",
+    "portions": 4
+  },
+  {
+    "id": "kondre",
+    "nom": "Kondré",
+    "region": "Ouest",
+    "temps": 90,
+    "difficulte": "Facile",
+    "description": "Ragoût de plantains verts et de viande de chèvre aux épices de l'Ouest, plat des grandes occasions.",
+    "ingredients": [
+      {
+        "ref": "plantain_vert",
+        "qte": 6
+      },
+      {
+        "ref": "chevre",
+        "qte": 1000
+      },
+      {
+        "ref": "tomate",
+        "qte": 3
+      },
+      {
+        "ref": "oignon",
+        "qte": 2
+      },
+      {
+        "ref": "ail",
+        "qte": 3
+      },
+      {
+        "ref": "gingembre",
+        "qte": 20
+      },
+      {
+        "ref": "celeri",
+        "qte": 1
+      },
+      {
+        "ref": "huile",
+        "qte": 10
+      },
+      {
+        "ref": "pebe"
+      },
+      {
+        "ref": "sel"
+      },
+      {
+        "ref": "cube"
+      },
+      {
+        "ref": "piment"
+      }
+    ],
+    "etapes": [
+      "Mixez tomates, oignons, ail, gingembre et épices.",
+      "Faites revenir la viande dans l'huile, ajoutez le mélange d'épices et laissez cuire 10 min.",
+      "Couvrez d'eau et laissez cuire jusqu'à ce que la viande soit presque tendre.",
+      "Épluchez les plantains, coupez-les en tronçons et ajoutez-les dans la marmite.",
+      "Laissez mijoter 25 min jusqu'à ce que les plantains soient cuits et la sauce légèrement épaissie."
+    ],
+    "accompagnement": "Se suffit à lui-même",
+    "portions": 4
+  },
+  {
+    "id": "sanga",
+    "nom": "Sanga",
+    "region": "Centre",
+    "temps": 75,
+    "difficulte": "Facile",
+    "description": "Maïs frais et feuilles de morelle cuits dans le jus de noix de palme, légèrement sucré.",
+    "ingredients": [
+      {
+        "ref": "mais_frais",
+        "qte": 10
+      },
+      {
+        "ref": "morelle",
+        "qte": 500
+      },
+      {
+        "ref": "noix_palme",
+        "qte": 1
+      },
+      {
+        "ref": "sucre"
+      },
+      {
+        "ref": "sel"
+      }
+    ],
+    "etapes": [
+      "Délayez la crème de noix de palme dans 1 L d'eau chaude. Avec des noix fraîches : faites-les bouillir, pilez-les, pressez-les avec de l'eau chaude puis filtrez.",
+      "Égrenez le maïs frais et écrasez légèrement les grains.",
+      "Lavez et émincez les feuilles, faites-les blanchir 5 min et essorez-les.",
+      "Portez le jus de palme à ébullition, ajoutez le maïs et laissez cuire 20 min.",
+      "Ajoutez les feuilles, sucrez et salez légèrement. Laissez cuire 15 min en remuant."
+    ],
+    "accompagnement": "Se suffit à lui-même",
+    "portions": 4
+  },
+  {
+    "id": "pepper-soup",
+    "nom": "Pepper soup",
+    "region": "Sud-Ouest",
+    "temps": 50,
+    "difficulte": "Facile",
+    "description": "Bouillon très parfumé et pimenté de poisson ou de viande aux épices locales.",
+    "ingredients": [
+      {
+        "ref": "poisson_frais",
+        "qte": 1000,
+        "precision": "ou viande"
+      },
+      {
+        "ref": "oignon",
+        "qte": 1
+      },
+      {
+        "ref": "ail",
+        "qte": 3
+      },
+      {
+        "ref": "gingembre",
+        "qte": 20
+      },
+      {
+        "ref": "basilic_africain",
+        "qte": 1
+      },
+      {
+        "ref": "epices_pepper_soup"
+      },
+      {
+        "ref": "sel"
+      },
+      {
+        "ref": "cube"
+      },
+      {
+        "ref": "piment"
+      }
+    ],
+    "etapes": [
+      "Grillez légèrement les épices sèches puis moulez-les finement.",
+      "Mettez la viande ou le poisson dans une marmite avec l'oignon, l'ail, le gingembre et 1,5 L d'eau.",
+      "Ajoutez les épices moulues, le piment, le sel et le cube.",
+      "Laissez cuire 25 à 35 min (moins longtemps pour le poisson).",
+      "Ajoutez le basilic africain 2 min avant la fin et servez bien chaud."
+    ],
+    "accompagnement": "Plantain ou igname bouilli",
+    "portions": 4
+  },
+  {
+    "id": "poisson-braise",
+    "nom": "Poisson braisé",
+    "region": "Tout le pays",
+    "temps": 45,
+    "difficulte": "Facile",
+    "description": "Poisson entier mariné aux épices vertes et grillé sur la braise, star des soirées de rue.",
+    "ingredients": [
+      {
+        "ref": "poisson_frais",
+        "qte": 1500,
+        "precision": "2 poissons entiers"
+      },
+      {
+        "ref": "ail",
+        "qte": 6
+      },
+      {
+        "ref": "gingembre",
+        "qte": 30
+      },
+      {
+        "ref": "persil",
+        "qte": 1
+      },
+      {
+        "ref": "celeri",
+        "qte": 1
+      },
+      {
+        "ref": "oignon",
+        "qte": 1
+      },
+      {
+        "ref": "huile",
+        "qte": 5
+      },
+      {
+        "ref": "poivre_blanc"
+      },
+      {
+        "ref": "pebe"
+      },
+      {
+        "ref": "sel"
+      },
+      {
+        "ref": "cube"
+      },
+      {
+        "ref": "piment"
+      }
+    ],
+    "etapes": [
+      "Videz et écaillez les poissons, puis entaillez-les sur les deux faces.",
+      "Mixez ail, gingembre, herbes, oignon, épices et un peu d'huile.",
+      "Badigeonnez généreusement les poissons, y compris dans les entailles, et laissez mariner 30 min.",
+      "Grillez sur la braise ou au four (grill) 10 à 12 min de chaque côté en arrosant de marinade.",
+      "Servez avec un piment écrasé à part."
+    ],
+    "accompagnement": "Miondo, bâton de manioc ou plantains frits",
+    "portions": 4
+  },
+  {
+    "id": "soya",
+    "nom": "Soya",
+    "region": "Nord",
+    "temps": 40,
+    "difficulte": "Facile",
+    "description": "Brochettes de bœuf fines grillées et roulées dans une poudre d'arachide épicée.",
+    "ingredients": [
+      {
+        "ref": "boeuf",
+        "qte": 1000,
+        "precision": "filet ou faux-filet"
+      },
+      {
+        "ref": "arachides_grillees",
+        "qte": 100,
+        "precision": "moulues"
+      },
+      {
+        "ref": "oignon",
+        "qte": 2
+      },
+      {
+        "ref": "huile",
+        "qte": 5
+      },
+      {
+        "ref": "epices_soya"
+      },
+      {
+        "ref": "sel"
+      },
+      {
+        "ref": "cube"
+      },
+      {
+        "ref": "piment"
+      }
+    ],
+    "etapes": [
+      "Coupez la viande en lamelles très fines et enfilez-les sur des brochettes.",
+      "Mélangez la poudre d'arachide avec les épices, le sel et le cube.",
+      "Badigeonnez la viande d'huile puis roulez-la dans le mélange épicé.",
+      "Grillez sur la braise 5 à 8 min en retournant souvent.",
+      "Servez avec des rondelles d'oignon cru et du piment."
+    ],
+    "accompagnement": "Oignons crus et piment",
+    "portions": 4
+  },
+  {
+    "id": "kwacoco-bible",
+    "nom": "Kwacoco bible",
+    "region": "Sud-Ouest",
+    "temps": 100,
+    "difficulte": "Moyenne",
+    "description": "Macabo râpé mélangé à l'huile de palme et au poisson fumé, cuit à la vapeur dans des feuilles.",
+    "ingredients": [
+      {
+        "ref": "macabo",
+        "qte": 2000
+      },
+      {
+        "ref": "poisson_fume",
+        "qte": 1
+      },
+      {
+        "ref": "crevettes_sechees",
+        "qte": 100
+      },
+      {
+        "ref": "huile_palme",
+        "qte": 20
+      },
+      {
+        "ref": "feuilles_bananier",
+        "qte": 1
+      },
+      {
+        "ref": "sel"
+      },
+      {
+        "ref": "cube"
+      },
+      {
+        "ref": "piment"
+      }
+    ],
+    "etapes": [
+      "Épluchez et râpez finement le macabo.",
+      "Émiettez le poisson fumé débarrassé de ses arêtes et moulez les crevettes.",
+      "Mélangez le macabo râpé avec le poisson, les crevettes, l'huile de palme, le piment, le sel et le cube.",
+      "Enveloppez le mélange dans des feuilles de bananier assouplies à la flamme.",
+      "Faites cuire à la vapeur environ 1 h."
+    ],
+    "accompagnement": "Se suffit à lui-même",
+    "portions": 4
+  },
+  {
+    "id": "folong",
+    "nom": "Folong",
+    "region": "Centre",
+    "temps": 70,
+    "difficulte": "Facile",
+    "description": "Feuilles de folong (amarante) à la pâte d'arachide avec viande ou poisson fumé.",
+    "ingredients": [
+      {
+        "ref": "folong",
+        "qte": 1000
+      },
+      {
+        "ref": "pate_arachide",
+        "qte": 300
+      },
+      {
+        "ref": "boeuf",
+        "qte": 500
+      },
+      {
+        "ref": "tomate",
+        "qte": 2
+      },
+      {
+        "ref": "oignon",
+        "qte": 1
+      },
+      {
+        "ref": "huile",
+        "qte": 5
+      },
+      {
+        "ref": "sel"
+      },
+      {
+        "ref": "cube"
+      },
+      {
+        "ref": "piment"
+      }
+    ],
+    "etapes": [
+      "Lavez et émincez les feuilles, faites-les blanchir 5 min et essorez-les.",
+      "Cuisez la viande assaisonnée jusqu'à ce qu'elle soit tendre.",
+      "Faites revenir oignon et tomates dans l'huile, ajoutez la viande et son bouillon.",
+      "Délayez la pâte d'arachide dans de l'eau et ajoutez-la. Laissez cuire 15 min.",
+      "Ajoutez les feuilles, assaisonnez et laissez mijoter 15 min."
+    ],
+    "accompagnement": "Bâton de manioc ou plantains",
+    "portions": 4
+  },
+  {
+    "id": "sauce-gombo",
+    "nom": "Sauce gombo",
+    "region": "Nord",
+    "temps": 60,
+    "difficulte": "Facile",
+    "description": "Sauce gluante au gombo frais, viande et poisson fumé, relevée à l'huile de palme.",
+    "ingredients": [
+      {
+        "ref": "gombo",
+        "qte": 500
+      },
+      {
+        "ref": "boeuf",
+        "qte": 500
+      },
+      {
+        "ref": "poisson_fume",
+        "qte": 1
+      },
+      {
+        "ref": "crevettes_sechees",
+        "qte": 50,
+        "precision": "moulues"
+      },
+      {
+        "ref": "huile_palme",
+        "qte": 15
+      },
+      {
+        "ref": "oignon",
+        "qte": 1
+      },
+      {
+        "ref": "sel"
+      },
+      {
+        "ref": "cube"
+      },
+      {
+        "ref": "piment"
+      }
+    ],
+    "etapes": [
+      "Cuisez la viande avec l'oignon, le sel et le cube.",
+      "Ajoutez le poisson fumé émietté et les crevettes moulues.",
+      "Coupez le gombo en fines rondelles ou râpez-le.",
+      "Ajoutez le gombo au bouillon et fouettez pour le rendre gluant.",
+      "Versez l'huile de palme et laissez cuire 10 min à découvert, sans couvrir pour garder la couleur."
+    ],
+    "accompagnement": "Couscous de maïs ou de manioc",
+    "portions": 4
+  },
+  {
+    "id": "sauce-arachide",
+    "nom": "Sauce d'arachide",
+    "region": "Tout le pays",
+    "temps": 60,
+    "difficulte": "Facile",
+    "description": "Sauce onctueuse à la pâte d'arachide, avec poulet ou viande de bœuf.",
+    "ingredients": [
+      {
+        "ref": "poulet",
+        "qte": 1,
+        "precision": "ou 1 kg de bœuf"
+      },
+      {
+        "ref": "pate_arachide",
+        "qte": 300
+      },
+      {
+        "ref": "tomate",
+        "qte": 3
+      },
+      {
+        "ref": "oignon",
+        "qte": 2
+      },
+      {
+        "ref": "ail",
+        "qte": 3
+      },
+      {
+        "ref": "gingembre",
+        "qte": 20
+      },
+      {
+        "ref": "huile",
+        "qte": 5
+      },
+      {
+        "ref": "sel"
+      },
+      {
+        "ref": "cube"
+      },
+      {
+        "ref": "piment"
+      }
+    ],
+    "etapes": [
+      "Assaisonnez la viande avec ail, gingembre, sel et faites-la revenir dans l'huile.",
+      "Ajoutez les oignons et les tomates mixés, laissez réduire 10 min.",
+      "Délayez la pâte d'arachide dans de l'eau tiède et versez-la dans la marmite.",
+      "Ajoutez de l'eau pour obtenir une sauce fluide et laissez mijoter 30 min en remuant.",
+      "Rectifiez l'assaisonnement ; la sauce est prête quand l'huile remonte en surface."
+    ],
+    "accompagnement": "Riz blanc, igname ou plantains",
+    "portions": 4
+  },
+  {
+    "id": "nkui",
+    "nom": "Nkui",
+    "region": "Ouest",
+    "temps": 50,
+    "difficulte": "Moyenne",
+    "description": "Sauce gluante traditionnelle des Bamiléké, préparée à partir d'écorces de nkui et d'épices.",
+    "ingredients": [
+      {
+        "ref": "ecorces_nkui",
+        "qte": 1
+      },
+      {
+        "ref": "potasse",
+        "qte": 1
+      },
+      {
+        "ref": "epices_nkui"
+      },
+      {
+        "ref": "piment"
+      },
+      {
+        "ref": "sel"
+      }
+    ],
+    "etapes": [
+      "Faites tremper les écorces de nkui dans l'eau tiède 15 min.",
+      "Grillez légèrement les épices puis moulez-les.",
+      "Pressez les écorces dans l'eau pour en extraire la gomme et retirez-les.",
+      "Portez ce liquide à ébullition avec les épices, la potasse filtrée, le piment et le sel.",
+      "Fouettez énergiquement 10 min jusqu'à ce que la sauce devienne gluante."
+    ],
+    "accompagnement": "Couscous de maïs",
+    "portions": 4
+  },
+  {
+    "id": "ekwang",
+    "nom": "Ekwang",
+    "region": "Sud-Ouest",
+    "temps": 150,
+    "difficulte": "Difficile",
+    "description": "Macabo râpé roulé un à un dans des feuilles de macabo, puis cuit lentement dans l'huile de palme.",
+    "ingredients": [
+      {
+        "ref": "macabo",
+        "qte": 2000
+      },
+      {
+        "ref": "feuilles_macabo",
+        "qte": 500
+      },
+      {
+        "ref": "boeuf",
+        "qte": 300
+      },
+      {
+        "ref": "peau_boeuf",
+        "qte": 200
+      },
+      {
+        "ref": "poisson_fume",
+        "qte": 1
+      },
+      {
+        "ref": "crevettes_sechees",
+        "qte": 100
+      },
+      {
+        "ref": "huile_palme",
+        "qte": 40
+      },
+      {
+        "ref": "sel"
+      },
+      {
+        "ref": "cube"
+      },
+      {
+        "ref": "piment"
+      }
+    ],
+    "etapes": [
+      "Épluchez et râpez finement le macabo.",
+      "Lavez les feuilles, retirez la nervure centrale et coupez-les en morceaux de la taille de la main.",
+      "Placez une cuillère de macabo râpé sur chaque feuille et roulez-la serrée.",
+      "Disposez les rouleaux en couches dans une marmite où cuisent déjà la viande, le poisson et les crevettes.",
+      "Versez l'huile de palme, couvrez d'eau à hauteur et laissez cuire à feu doux 1 h sans remuer."
+    ],
+    "accompagnement": "Se suffit à lui-même",
+    "portions": 4
+  },
+  {
+    "id": "kati-kati",
+    "nom": "Kati-kati",
+    "region": "Nord-Ouest",
+    "temps": 80,
+    "difficulte": "Moyenne",
+    "description": "Poulet fermier grillé au feu de bois, puis cuit dans une sauce rouge à l'huile de palme.",
+    "ingredients": [
+      {
+        "ref": "poulet",
+        "qte": 1,
+        "precision": "fermier"
+      },
+      {
+        "ref": "huile_palme",
+        "qte": 20
+      },
+      {
+        "ref": "oignon",
+        "qte": 2
+      },
+      {
+        "ref": "ail",
+        "qte": 3
+      },
+      {
+        "ref": "gingembre",
+        "qte": 20
+      },
+      {
+        "ref": "sel"
+      },
+      {
+        "ref": "cube"
+      },
+      {
+        "ref": "piment"
+      }
+    ],
+    "etapes": [
+      "Découpez le poulet et grillez les morceaux sur la braise jusqu'à ce qu'ils soient bien dorés et fumés.",
+      "Faites chauffer l'huile de palme quelques minutes sans la brûler.",
+      "Ajoutez les oignons émincés, l'ail, le gingembre et le piment.",
+      "Mettez le poulet grillé, un peu d'eau, le sel et le cube.",
+      "Laissez mijoter 20 à 25 min jusqu'à ce que la sauce enrobe bien le poulet."
+    ],
+    "accompagnement": "Corn fufu et légumes (njama-njama)",
+    "portions": 4
+  },
+  {
+    "id": "corn-chaff",
+    "nom": "Corn chaff",
+    "region": "Nord-Ouest",
+    "temps": 120,
+    "difficulte": "Facile",
+    "description": "Ragoût de maïs sec et de haricots à l'huile de palme, plat du quotidien des Grassfields.",
+    "ingredients": [
+      {
+        "ref": "mais_sec",
+        "qte": 500
+      },
+      {
+        "ref": "haricots_rouges",
+        "qte": 300
+      },
+      {
+        "ref": "huile_palme",
+        "qte": 15
+      },
+      {
+        "ref": "oignon",
+        "qte": 2
+      },
+      {
+        "ref": "tomate",
+        "qte": 2
+      },
+      {
+        "ref": "epinards",
+        "qte": 300
+      },
+      {
+        "ref": "sel"
+      },
+      {
+        "ref": "cube"
+      },
+      {
+        "ref": "piment"
+      }
+    ],
+    "etapes": [
+      "Faites tremper le maïs et les haricots une nuit.",
+      "Cuisez-les ensemble à l'eau 1 h à 1 h 30 jusqu'à ce qu'ils soient tendres.",
+      "Faites chauffer l'huile de palme, faites-y revenir oignons et tomates.",
+      "Ajoutez le maïs et les haricots égouttés, assaisonnez.",
+      "Incorporez les feuilles émincées et laissez mijoter 10 min."
+    ],
+    "accompagnement": "Se suffit à lui-même",
+    "portions": 4
+  },
+  {
+    "id": "pommes-pilees",
+    "nom": "Pommes pilées",
+    "region": "Ouest",
+    "temps": 90,
+    "difficulte": "Facile",
+    "description": "Pommes de terre et haricots rouges pilés ensemble, arrosés d'huile de palme.",
+    "ingredients": [
+      {
+        "ref": "pomme_terre",
+        "qte": 1500
+      },
+      {
+        "ref": "haricots_rouges",
+        "qte": 400
+      },
+      {
+        "ref": "huile_palme",
+        "qte": 15
+      },
+      {
+        "ref": "oignon",
+        "qte": 1
+      },
+      {
+        "ref": "piment"
+      },
+      {
+        "ref": "sel"
+      }
+    ],
+    "etapes": [
+      "Faites tremper les haricots une nuit puis cuisez-les 1 h jusqu'à ce qu'ils soient tendres.",
+      "Épluchez et faites bouillir les pommes de terre.",
+      "Faites chauffer l'huile de palme avec l'oignon émincé et le piment.",
+      "Pilez ensemble pommes de terre et haricots chauds.",
+      "Arrosez d'huile parfumée, salez et mélangez."
+    ],
+    "accompagnement": "Se suffit à lui-même",
+    "portions": 4
+  },
+  {
+    "id": "bhb",
+    "nom": "Beignets-haricots-bouillie",
+    "region": "Tout le pays",
+    "temps": 120,
+    "difficulte": "Moyenne",
+    "description": "Le fameux BHB : beignets soufflés, haricots rouges en sauce et bouillie de maïs.",
+    "ingredients": [
+      {
+        "ref": "farine_ble",
+        "qte": 500
+      },
+      {
+        "ref": "levure",
+        "qte": 1
+      },
+      {
+        "ref": "haricots_rouges",
+        "qte": 400
+      },
+      {
+        "ref": "huile_palme",
+        "qte": 10
+      },
+      {
+        "ref": "oignon",
+        "qte": 1
+      },
+      {
+        "ref": "tomate",
+        "qte": 2
+      },
+      {
+        "ref": "farine_mais",
+        "qte": 200
+      },
+      {
+        "ref": "huile",
+        "qte": 100,
+        "precision": "pour la friture"
+      },
+      {
+        "ref": "sucre"
+      },
+      {
+        "ref": "sel"
+      }
+    ],
+    "etapes": [
+      "Mélangez farine, levure, sucre, une pincée de sel et de l'eau tiède pour une pâte collante. Laissez lever 1 h.",
+      "Faites cuire les haricots trempés, puis assaisonnez-les avec huile de palme, oignon, tomate et sel.",
+      "Préparez la bouillie : délayez la farine de maïs dans de l'eau froide puis faites cuire 10 min en remuant, sucrez.",
+      "Formez des boules de pâte avec la main et faites-les frire dans l'huile chaude jusqu'à ce qu'elles soient dorées.",
+      "Servez beignets, haricots et bouillie ensemble."
+    ],
+    "accompagnement": "Se suffit à lui-même",
+    "portions": 4
+  },
+  {
+    "id": "banga-soup",
+    "nom": "Banga soup",
+    "region": "Sud-Ouest",
+    "temps": 75,
+    "difficulte": "Moyenne",
+    "description": "Soupe riche au jus de noix de palme, poisson frais et fumé, parfumée aux épices.",
+    "ingredients": [
+      {
+        "ref": "noix_palme",
+        "qte": 1
+      },
+      {
+        "ref": "poisson_frais",
+        "qte": 500
+      },
+      {
+        "ref": "poisson_fume",
+        "qte": 1
+      },
+      {
+        "ref": "crevettes_sechees",
+        "qte": 100
+      },
+      {
+        "ref": "oignon",
+        "qte": 1
+      },
+      {
+        "ref": "rondelles"
+      },
+      {
+        "ref": "pebe"
+      },
+      {
+        "ref": "sel"
+      },
+      {
+        "ref": "cube"
+      },
+      {
+        "ref": "piment"
+      }
+    ],
+    "etapes": [
+      "Délayez la crème de noix de palme dans 1 L d'eau chaude. Avec des noix fraîches : faites-les bouillir, pilez-les, pressez-les avec de l'eau chaude puis filtrez. Gardez un jus épais.",
+      "Portez le jus à ébullition et laissez réduire 15 min.",
+      "Ajoutez l'oignon, les épices moulues, les crevettes, le sel et le piment.",
+      "Ajoutez le poisson fumé, puis le poisson frais en morceaux.",
+      "Laissez cuire 15 min à feu doux jusqu'à ce que la soupe épaississe."
+    ],
+    "accompagnement": "Garri ou water fufu",
+    "portions": 4
+  },
+  {
+    "id": "nnam-owondo",
+    "nom": "Nnam owondo",
+    "region": "Centre",
+    "temps": 120,
+    "difficulte": "Moyenne",
+    "description": "Pâte d'arachide mêlée de viande ou de poisson, cuite en papillote dans des feuilles de bananier.",
+    "ingredients": [
+      {
+        "ref": "arachides",
+        "qte": 500
+      },
+      {
+        "ref": "boeuf",
+        "qte": 500,
+        "precision": "ou poisson fumé"
+      },
+      {
+        "ref": "oignon",
+        "qte": 1
+      },
+      {
+        "ref": "ail",
+        "qte": 3
+      },
+      {
+        "ref": "gingembre",
+        "qte": 20
+      },
+      {
+        "ref": "feuilles_bananier",
+        "qte": 1
+      },
+      {
+        "ref": "sel"
+      },
+      {
+        "ref": "cube"
+      },
+      {
+        "ref": "piment"
+      }
+    ],
+    "etapes": [
+      "Faites bouillir les arachides, retirez la peau puis mixez-les en pâte fine.",
+      "Coupez la viande en petits morceaux et assaisonnez-la.",
+      "Mélangez la pâte d'arachide, la viande, l'oignon, l'ail, le gingembre et les assaisonnements.",
+      "Répartissez dans des feuilles de bananier et ficelez.",
+      "Faites cuire à la vapeur 1 h 30."
+    ],
+    "accompagnement": "Bâton de manioc ou plantains",
+    "portions": 4
+  },
+  {
+    "id": "ndomba-poisson",
+    "nom": "Ndomba de poisson",
+    "region": "Centre",
+    "temps": 60,
+    "difficulte": "Facile",
+    "description": "Poisson assaisonné et cuit à l'étouffée en papillote de feuilles de bananier.",
+    "ingredients": [
+      {
+        "ref": "poisson_frais",
+        "qte": 1000
+      },
+      {
+        "ref": "tomate",
+        "qte": 2
+      },
+      {
+        "ref": "oignon",
+        "qte": 1
+      },
+      {
+        "ref": "ail",
+        "qte": 3
+      },
+      {
+        "ref": "gingembre",
+        "qte": 20
+      },
+      {
+        "ref": "celeri",
+        "qte": 1
+      },
+      {
+        "ref": "persil",
+        "qte": 1
+      },
+      {
+        "ref": "feuilles_bananier",
+        "qte": 1
+      },
+      {
+        "ref": "pebe"
+      },
+      {
+        "ref": "poivre_blanc"
+      },
+      {
+        "ref": "piment"
+      },
+      {
+        "ref": "sel"
+      }
+    ],
+    "etapes": [
+      "Nettoyez le poisson et coupez-le en tranches.",
+      "Mixez tomates, oignon, herbes et épices.",
+      "Enrobez le poisson de ce mélange et salez.",
+      "Enveloppez dans des feuilles de bananier assouplies et ficelez.",
+      "Faites cuire à l'étouffée dans une marmite avec un fond d'eau, 35 à 40 min."
+    ],
+    "accompagnement": "Plantains ou bâton de manioc",
+    "portions": 4
+  },
+  {
+    "id": "kpwem",
+    "nom": "Kpwem",
+    "region": "Est",
+    "temps": 120,
+    "difficulte": "Moyenne",
+    "description": "Feuilles de manioc pilées cuites longuement avec pâte d'arachide et huile de palme.",
+    "ingredients": [
+      {
+        "ref": "feuilles_manioc",
+        "qte": 1000
+      },
+      {
+        "ref": "pate_arachide",
+        "qte": 300
+      },
+      {
+        "ref": "huile_palme",
+        "qte": 15
+      },
+      {
+        "ref": "poisson_fume",
+        "qte": 1,
+        "precision": "facultatif"
+      },
+      {
+        "ref": "piment"
+      },
+      {
+        "ref": "sel"
+      }
+    ],
+    "etapes": [
+      "Faites bouillir les feuilles de manioc pilées 45 min dans beaucoup d'eau, puis égouttez.",
+      "Remettez-les dans la marmite avec un peu d'eau.",
+      "Ajoutez la pâte d'arachide délayée et le poisson fumé émietté.",
+      "Versez l'huile de palme, salez et pimentez.",
+      "Laissez mijoter 30 min à feu doux en remuant de temps en temps."
+    ],
+    "accompagnement": "Bâton de manioc ou plantains",
+    "portions": 4
+  },
+  {
+    "id": "riz-jollof",
+    "nom": "Riz jollof",
+    "region": "Tout le pays",
+    "temps": 60,
+    "difficulte": "Facile",
+    "description": "Riz cuit dans une sauce tomate épicée avec viande et légumes, version camerounaise.",
+    "ingredients": [
+      {
+        "ref": "riz",
+        "qte": 500
+      },
+      {
+        "ref": "boeuf",
+        "qte": 500,
+        "precision": "ou poulet"
+      },
+      {
+        "ref": "tomate",
+        "qte": 4
+      },
+      {
+        "ref": "oignon",
+        "qte": 2
+      },
+      {
+        "ref": "poivron",
+        "qte": 1
+      },
+      {
+        "ref": "carotte",
+        "qte": 2
+      },
+      {
+        "ref": "haricots_verts",
+        "qte": 150
+      },
+      {
+        "ref": "ail",
+        "qte": 3
+      },
+      {
+        "ref": "gingembre",
+        "qte": 20
+      },
+      {
+        "ref": "huile",
+        "qte": 5
+      },
+      {
+        "ref": "concentre"
+      },
+      {
+        "ref": "thym"
+      },
+      {
+        "ref": "laurier"
+      },
+      {
+        "ref": "sel"
+      },
+      {
+        "ref": "cube"
+      },
+      {
+        "ref": "piment"
+      }
+    ],
+    "etapes": [
+      "Cuisez la viande assaisonnée et gardez le bouillon.",
+      "Faites revenir oignons, tomates mixées et concentré dans l'huile 15 min.",
+      "Ajoutez les épices, la viande et les légumes coupés.",
+      "Versez le riz lavé et le bouillon (une fois et demie le volume du riz).",
+      "Couvrez et cuisez à feu doux 20 min sans remuer, jusqu'à absorption du liquide."
+    ],
+    "accompagnement": "Se suffit à lui-même",
+    "portions": 4
+  },
+  {
+    "id": "mets-pistache",
+    "nom": "Mets de pistache",
+    "region": "Ouest",
+    "temps": 120,
+    "difficulte": "Moyenne",
+    "description": "Graines de courge (pistache) moulues mêlées au poisson, cuites en papillote.",
+    "ingredients": [
+      {
+        "ref": "pistache",
+        "qte": 500
+      },
+      {
+        "ref": "poisson_fume",
+        "qte": 1
+      },
+      {
+        "ref": "crevettes_sechees",
+        "qte": 100
+      },
+      {
+        "ref": "oignon",
+        "qte": 1
+      },
+      {
+        "ref": "feuilles_bananier",
+        "qte": 1
+      },
+      {
+        "ref": "sel"
+      },
+      {
+        "ref": "cube"
+      },
+      {
+        "ref": "piment"
+      }
+    ],
+    "etapes": [
+      "Moulez finement les pistaches.",
+      "Ajoutez un peu d'eau pour obtenir une pâte qui se tient.",
+      "Incorporez le poisson émietté, les crevettes, l'oignon, le piment et le sel.",
+      "Enveloppez dans les feuilles de bananier.",
+      "Faites cuire à la vapeur 1 h 30."
+    ],
+    "accompagnement": "Plantains, macabo ou igname bouillis",
+    "portions": 4
+  }
+]

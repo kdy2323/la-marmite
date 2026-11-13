@@ -1,0 +1,478 @@
+{
+  "ndole": {
+    "nom": "Feuilles de ndolé",
+    "magasin": "afro",
+    "unite": "g",
+    "achat": "quantite",
+    "note": "Vendues surgelées (sachets de 500 g) ou séchées."
+  },
+  "eru": {
+    "nom": "Eru émincé",
+    "magasin": "afro",
+    "unite": "g",
+    "achat": "quantite",
+    "note": "Surgelé ou séché."
+  },
+  "okok": {
+    "nom": "Feuilles d'okok (gnetum)",
+    "magasin": "afro",
+    "unite": "g",
+    "achat": "quantite",
+    "note": "Séchées ou surgelées, souvent déjà émincées."
+  },
+  "folong": {
+    "nom": "Feuilles de folong (amarante)",
+    "magasin": "afro",
+    "unite": "g",
+    "achat": "quantite",
+    "note": "À défaut : épinards frais."
+  },
+  "morelle": {
+    "nom": "Feuilles de morelle (zom)",
+    "magasin": "afro",
+    "unite": "g",
+    "achat": "quantite",
+    "note": "Surgelées. À défaut : épinards."
+  },
+  "feuilles_manioc": {
+    "nom": "Feuilles de manioc pilées",
+    "magasin": "afro",
+    "unite": "g",
+    "achat": "quantite",
+    "note": "Au rayon surgelé, souvent vendues sous le nom « pondu » ou « saka-saka »."
+  },
+  "feuilles_macabo": {
+    "nom": "Feuilles de macabo",
+    "magasin": "afro",
+    "unite": "g",
+    "achat": "quantite",
+    "note": "À défaut : feuilles de manioc ou grandes feuilles d'épinard."
+  },
+  "epinards": {
+    "nom": "Épinards frais",
+    "magasin": "supermarche",
+    "unite": "g",
+    "achat": "quantite",
+    "note": "Remplacent le waterleaf, introuvable en Belgique."
+  },
+  "arachides": {
+    "nom": "Arachides crues décortiquées",
+    "magasin": "afro",
+    "unite": "g",
+    "achat": "quantite",
+    "note": "Aussi en épicerie turque ou orientale."
+  },
+  "arachides_grillees": {
+    "nom": "Cacahuètes grillées non salées",
+    "magasin": "supermarche",
+    "unite": "g",
+    "achat": "quantite",
+    "note": ""
+  },
+  "pate_arachide": {
+    "nom": "Pâte d'arachide 100 % arachide",
+    "magasin": "supermarche",
+    "unite": "g",
+    "achat": "quantite",
+    "note": "Beurre de cacahuète nature, sans sucre ni sel ajoutés."
+  },
+  "pistache": {
+    "nom": "Graines de courge (pistache, egusi)",
+    "magasin": "afro",
+    "unite": "g",
+    "achat": "quantite",
+    "note": "Vendues sous le nom « egusi »."
+  },
+  "boeuf": {
+    "nom": "Bœuf à mijoter",
+    "magasin": "boucherie",
+    "unite": "g",
+    "achat": "quantite",
+    "note": ""
+  },
+  "peau_boeuf": {
+    "nom": "Peau de bœuf (kanda)",
+    "magasin": "afro",
+    "unite": "g",
+    "achat": "quantite",
+    "note": "Au rayon surgelé."
+  },
+  "tripes": {
+    "nom": "Tripes de bœuf",
+    "magasin": "boucherie",
+    "unite": "g",
+    "achat": "quantite",
+    "note": "Boucheries halal."
+  },
+  "chevre": {
+    "nom": "Viande de chèvre",
+    "magasin": "boucherie",
+    "unite": "g",
+    "achat": "quantite",
+    "note": "Boucheries halal ; à défaut, agneau."
+  },
+  "poulet": {
+    "nom": "Poulet entier",
+    "magasin": "boucherie",
+    "unite": "pièce",
+    "achat": "quantite",
+    "note": "Un poulet fermier donne plus de goût."
+  },
+  "poisson_frais": {
+    "nom": "Poisson frais (bar, dorade, maquereau)",
+    "magasin": "poissonnerie",
+    "unite": "g",
+    "achat": "quantite",
+    "note": "Le surgelé convient pour les sauces."
+  },
+  "poisson_fume": {
+    "nom": "Poisson fumé",
+    "magasin": "afro",
+    "unite": "pièce",
+    "achat": "quantite",
+    "note": "En dépannage : maquereau fumé du supermarché."
+  },
+  "crevettes_fraiches": {
+    "nom": "Crevettes crues",
+    "magasin": "poissonnerie",
+    "unite": "g",
+    "achat": "quantite",
+    "note": "Ou surgelées au supermarché."
+  },
+  "crevettes_sechees": {
+    "nom": "Crevettes séchées",
+    "magasin": "afro",
+    "unite": "g",
+    "achat": "quantite",
+    "note": ""
+  },
+  "huile_palme": {
+    "nom": "Huile de palme rouge",
+    "magasin": "afro",
+    "unite": "cl",
+    "achat": "quantite",
+    "note": ""
+  },
+  "noix_palme": {
+    "nom": "Crème de noix de palme (conserve 800 g)",
+    "magasin": "afro",
+    "unite": "boîte",
+    "achat": "quantite",
+    "note": "Remplace 1 kg de noix fraîches."
+  },
+  "huile": {
+    "nom": "Huile végétale",
+    "magasin": "supermarche",
+    "unite": "cl",
+    "achat": "quantite",
+    "note": ""
+  },
+  "oignon": {
+    "nom": "Oignons",
+    "magasin": "supermarche",
+    "unite": "pièce",
+    "achat": "quantite",
+    "note": ""
+  },
+  "ail": {
+    "nom": "Ail",
+    "magasin": "supermarche",
+    "unite": "gousse",
+    "achat": "quantite",
+    "note": ""
+  },
+  "gingembre": {
+    "nom": "Gingembre frais",
+    "magasin": "supermarche",
+    "unite": "g",
+    "achat": "quantite",
+    "note": ""
+  },
+  "tomate": {
+    "nom": "Tomates",
+    "magasin": "supermarche",
+    "unite": "pièce",
+    "achat": "quantite",
+    "note": ""
+  },
+  "poivron": {
+    "nom": "Poivrons",
+    "magasin": "supermarche",
+    "unite": "pièce",
+    "achat": "quantite",
+    "note": ""
+  },
+  "carotte": {
+    "nom": "Carottes",
+    "magasin": "supermarche",
+    "unite": "pièce",
+    "achat": "quantite",
+    "note": ""
+  },
+  "haricots_verts": {
+    "nom": "Haricots verts",
+    "magasin": "supermarche",
+    "unite": "g",
+    "achat": "quantite",
+    "note": ""
+  },
+  "celeri": {
+    "nom": "Céleri branche",
+    "magasin": "supermarche",
+    "unite": "branche",
+    "achat": "quantite",
+    "note": ""
+  },
+  "persil": {
+    "nom": "Persil",
+    "magasin": "supermarche",
+    "unite": "botte",
+    "achat": "quantite",
+    "note": ""
+  },
+  "basilic_africain": {
+    "nom": "Basilic africain (massep)",
+    "magasin": "afro",
+    "unite": "botte",
+    "achat": "quantite",
+    "note": "À défaut : basilic thaï (supermarché asiatique)."
+  },
+  "plantain_mur": {
+    "nom": "Plantains mûrs",
+    "magasin": "supermarche",
+    "unite": "pièce",
+    "achat": "quantite",
+    "note": "Colruyt, Carrefour et épiceries africaines. Peau jaune tachée de noir."
+  },
+  "plantain_vert": {
+    "nom": "Plantains verts",
+    "magasin": "afro",
+    "unite": "pièce",
+    "achat": "quantite",
+    "note": ""
+  },
+  "macabo": {
+    "nom": "Macabo",
+    "magasin": "afro",
+    "unite": "g",
+    "achat": "quantite",
+    "note": ""
+  },
+  "taro": {
+    "nom": "Taro",
+    "magasin": "asiatique",
+    "unite": "g",
+    "achat": "quantite",
+    "note": "Aussi en épicerie africaine."
+  },
+  "mais_frais": {
+    "nom": "Épis de maïs frais",
+    "magasin": "supermarche",
+    "unite": "épi",
+    "achat": "quantite",
+    "note": "Hors saison : maïs doux surgelé (≈ 120 g par épi)."
+  },
+  "mais_sec": {
+    "nom": "Maïs sec en grains",
+    "magasin": "afro",
+    "unite": "g",
+    "achat": "quantite",
+    "note": ""
+  },
+  "haricots_rouges": {
+    "nom": "Haricots rouges secs",
+    "magasin": "supermarche",
+    "unite": "g",
+    "achat": "quantite",
+    "note": ""
+  },
+  "cornille": {
+    "nom": "Haricots cornille (niébé)",
+    "magasin": "afro",
+    "unite": "g",
+    "achat": "quantite",
+    "note": "Aussi appelés « black-eyed peas »."
+  },
+  "gombo": {
+    "nom": "Gombo frais",
+    "magasin": "asiatique",
+    "unite": "g",
+    "achat": "quantite",
+    "note": "Aussi en épicerie africaine, frais ou surgelé."
+  },
+  "pomme_terre": {
+    "nom": "Pommes de terre",
+    "magasin": "supermarche",
+    "unite": "g",
+    "achat": "quantite",
+    "note": ""
+  },
+  "riz": {
+    "nom": "Riz long",
+    "magasin": "supermarche",
+    "unite": "g",
+    "achat": "quantite",
+    "note": ""
+  },
+  "farine_ble": {
+    "nom": "Farine de blé",
+    "magasin": "supermarche",
+    "unite": "g",
+    "achat": "quantite",
+    "note": ""
+  },
+  "farine_mais": {
+    "nom": "Farine de maïs fine",
+    "magasin": "afro",
+    "unite": "g",
+    "achat": "quantite",
+    "note": ""
+  },
+  "levure": {
+    "nom": "Levure boulangère sèche",
+    "magasin": "supermarche",
+    "unite": "sachet",
+    "achat": "quantite",
+    "note": ""
+  },
+  "feuilles_bananier": {
+    "nom": "Feuilles de bananier",
+    "magasin": "asiatique",
+    "unite": "paquet",
+    "achat": "quantite",
+    "note": "Surgelées, à décongeler avant usage."
+  },
+  "ecorces_nkui": {
+    "nom": "Écorces de nkui",
+    "magasin": "afro",
+    "unite": "paquet",
+    "achat": "quantite",
+    "note": ""
+  },
+  "mbongo": {
+    "nom": "Gousses de mbongo",
+    "magasin": "afro",
+    "unite": "gousse",
+    "achat": "quantite",
+    "note": ""
+  },
+  "potasse": {
+    "nom": "Potasse (kanwa)",
+    "magasin": "afro",
+    "unite": "morceau",
+    "achat": "quantite",
+    "note": ""
+  },
+  "pebe": {
+    "nom": "Pèbè",
+    "magasin": "afro",
+    "unite": "",
+    "achat": "stock",
+    "note": ""
+  },
+  "rondelles": {
+    "nom": "Rondelles",
+    "magasin": "afro",
+    "unite": "",
+    "achat": "stock",
+    "note": ""
+  },
+  "njansang": {
+    "nom": "Njansang",
+    "magasin": "afro",
+    "unite": "",
+    "achat": "stock",
+    "note": ""
+  },
+  "epices_achu": {
+    "nom": "Mélange d'épices achu",
+    "magasin": "afro",
+    "unite": "",
+    "achat": "stock",
+    "note": ""
+  },
+  "epices_nkui": {
+    "nom": "Mélange d'épices nkui",
+    "magasin": "afro",
+    "unite": "",
+    "achat": "stock",
+    "note": ""
+  },
+  "epices_pepper_soup": {
+    "nom": "Épices pepper soup",
+    "magasin": "afro",
+    "unite": "",
+    "achat": "stock",
+    "note": ""
+  },
+  "epices_soya": {
+    "nom": "Épices soya (yaji)",
+    "magasin": "afro",
+    "unite": "",
+    "achat": "stock",
+    "note": ""
+  },
+  "sel": {
+    "nom": "Sel",
+    "magasin": "placard",
+    "unite": "",
+    "achat": "stock",
+    "note": ""
+  },
+  "cube": {
+    "nom": "Cubes de bouillon",
+    "magasin": "placard",
+    "unite": "",
+    "achat": "stock",
+    "note": ""
+  },
+  "poivre": {
+    "nom": "Poivre noir",
+    "magasin": "placard",
+    "unite": "",
+    "achat": "stock",
+    "note": ""
+  },
+  "poivre_blanc": {
+    "nom": "Poivre blanc",
+    "magasin": "placard",
+    "unite": "",
+    "achat": "stock",
+    "note": ""
+  },
+  "piment": {
+    "nom": "Piment",
+    "magasin": "placard",
+    "unite": "",
+    "achat": "stock",
+    "note": "Frais (supermarché) ou en poudre."
+  },
+  "sucre": {
+    "nom": "Sucre",
+    "magasin": "placard",
+    "unite": "",
+    "achat": "stock",
+    "note": ""
+  },
+  "thym": {
+    "nom": "Thym",
+    "magasin": "placard",
+    "unite": "",
+    "achat": "stock",
+    "note": ""
+  },
+  "laurier": {
+    "nom": "Laurier",
+    "magasin": "placard",
+    "unite": "",
+    "achat": "stock",
+    "note": ""
+  },
+  "concentre": {
+    "nom": "Concentré de tomate",
+    "magasin": "placard",
+    "unite": "",
+    "achat": "stock",
+    "note": ""
+  }
+}
